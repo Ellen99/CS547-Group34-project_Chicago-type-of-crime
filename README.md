@@ -61,3 +61,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://drive.
 
 ## Final Presentation
 We have created a video presentation summarizing our project goals, methodology, results, and key insights. You can find the video in the repository under [media/](https://github.com/Ellen99/CS547-Group34-project_Chicago-type-of-crime/blob/main/media) or access it with this [Youtube link](https://youtu.be/u-7zkXJJF40).
+
+## Conclusions
+Our conclusions document can be found [here](https://github.com/Ellen99/CS547_IE534-Group34-project_Chicago-type-of-crime/blob/main/reports/conclusions.md)
